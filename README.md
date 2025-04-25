@@ -1,7 +1,7 @@
 # Todo-list
 - [Demo Project](https://mohananoruztabar.github.io/Todo-list/index-todoList)
 
-- ![Image]![Image](https://github.com/user-attachments/assets/eb304cb2-9ba4-4a72-aef9-0fa6fc3e3b52)
+- ![Image]![Image](https://github.com/user-attachments/assets/44eb3d74-afdf-4a3d-ace4-ff8f4eb7aa01)
 
 -🙋🏽‍♀️ Developed by Mohana Noruztabar
 
