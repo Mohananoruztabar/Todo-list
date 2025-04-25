@@ -1,5 +1,5 @@
 # Todo-list
-- [Demo Project](https://mohananoruztabar.github.io/tailwind-home/index1.html)
+- [Demo Project](https://mohananoruztabar.github.io/Todo-list/index-todoList)
 
 - ![Image]![Image](https://github.com/user-attachments/assets/eb304cb2-9ba4-4a72-aef9-0fa6fc3e3b52)
 
